@@ -25,9 +25,11 @@ Este proyecto automatiza dos procesos basados en encuestas de sesiones académic
   
 - **/workspace/template/:** Contiene las plantillas en formato .docx que se usan para generar los informes.
   
-- **evalua_encuestas.ipynb:** Un notebook que automatiza la evaluación de encuestas académicas, generando informes personalizados y enviándolos por correo electrónico.
+- **/src:** Contiene el código:
+ 
+  - **evalua_encuestas.ipynb:** Un notebook que automatiza la evaluación de encuestas académicas, generando informes personalizados y enviándolos por correo electrónico.
   
-- **genera_informe_encuestas.ipynb:** Un notebook que genera y envía informes personalizados al presentador de la sesión con los resultados de las evaluaciones sobre el tema, el presentador y la sesión en general. 
+  - **genera_informe_encuestas.ipynb:** Un notebook que genera y envía informes personalizados al presentador de la sesión con los resultados de las evaluaciones sobre el tema, el presentador y la sesión en general. 
 
 - README.md: Este archivo de documentación.
 
