@@ -29,7 +29,9 @@ Este proyecto automatiza dos procesos basados en encuestas de sesiones académic
  
   - **evalua_encuestas.ipynb:** Un notebook que automatiza la evaluación de encuestas académicas, generando informes personalizados y enviándolos por correo electrónico.
   
-  - **genera_informe_encuestas.ipynb:** Un notebook que genera y envía informes personalizados al presentador de la sesión con los resultados de las evaluaciones sobre el tema, el presentador y la sesión en general. 
+  - **genera_informe_encuestas.ipynb:** Un notebook que genera y envía informes personalizados al presentador de la sesión con los resultados de las evaluaciones sobre el tema, el presentador y la sesión en general.
+
+  - **criterios.txt:** Fichero donde se definen los criterios que debe usar GPT-4 para evaluar cada pregunta. Se debe respetar el formato actual.
 
 - README.md: Este archivo de documentación.
 
