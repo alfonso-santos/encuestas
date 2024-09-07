@@ -1,0 +1,42 @@
+Criterios para Q11_Especifica1:
+1. Mención de conceptos clave:
+   - La respuesta debe mencionar los cuatro conceptos clave: Redes Neuronales, Algoritmos Genéticos, Algoritmos de Enjambre, Lógica Difusa.
+   - Si la respuesta menciona correctamente los cuatro conceptos, la nota base será un 7.
+   - Si faltan uno o más conceptos, se restarán 2 puntos por cada concepto faltante.
+
+2. Definiciones breves y correctas:
+   - Si la respuesta incluye una definición breve pero correcta de al menos dos de los conceptos mencionados, la nota subirá a un 8.
+   - Si define correctamente tres conceptos, la nota subirá a un 9.
+   - Si define correctamente los cuatro conceptos, la nota será un 10.
+
+3. Errores en las definiciones:
+   - Si alguna de las definiciones es incorrecta, se restará 1 punto por cada definición errónea.
+   - Si las cuatro definiciones son incorrectas, la nota será 4.
+
+Nota general: Si no se mencionan los conceptos correctamente o se proporcionan definiciones erróneas, la nota se reducirá significativamente en función de la cantidad de errores.
+
+Criterios para Q12_Especifica2:
+1. Mención del concepto y objetivo principal:
+   - La respuesta debe mencionar que el algoritmo de mejor ejecución se usa para optimizar la venta en bolsa (maximizar precio o minimizar costos).
+   - Nota base:
+     - Menciona ambos objetivos: 7.
+     - Menciona solo uno: 6.
+     - No menciona el objetivo: 4.
+
+2. Aplicación en los mercados financieros:
+   - Debe explicar cómo el algoritmo se aplica, mencionando liquidez, tiempo de ejecución o volatilidad.
+   - Suma de puntos:
+     - Explicación clara: +2.
+     - Mención vaga o incompleta: +1.
+
+3. Comprensión y claridad:
+   - La respuesta debe ser clara y demostrar un entendimiento adecuado del algoritmo.
+   - Suma de puntos:
+     - Respuesta clara y precisa: +2.
+     - Comprensible pero con errores: +1.
+
+4. Errores en la definición:
+   - Se restará 1 punto por cada error.
+   - Si hay cuatro o más errores, la nota será 4.
+
+Nota general: Si la respuesta es confusa o incompleta, se penalizará en función de los errores y omisiones.
