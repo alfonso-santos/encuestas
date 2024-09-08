@@ -6,3 +6,4 @@ smtplib
 concurrent.futures
 openai
 python-dotenv
+fpdf2
