@@ -1,42 +1,55 @@
 Criterios para Q11_Especifica1:
-1. Mención de conceptos clave:
-   - La respuesta debe mencionar los cuatro conceptos clave: Redes Neuronales, Algoritmos Genéticos, Algoritmos de Enjambre, Lógica Difusa.
-   - Si la respuesta menciona correctamente los cuatro conceptos, la nota base será un 7.
-   - Si faltan uno o más conceptos, se restarán 2 puntos por cada concepto faltante.
 
-2. Definiciones breves y correctas:
-   - Si la respuesta incluye una definición breve pero correcta de al menos dos de los conceptos mencionados, la nota subirá a un 8.
-   - Si define correctamente tres conceptos, la nota subirá a un 9.
-   - Si define correctamente los cuatro conceptos, la nota será un 10.
+The answer consists of two parts. The first part is the definition of FinTech, evaluated on 5 points. The second part is a list of at least three types of FinTech, with a brief one-sentence explanation for each, also evaluated on 5 points. The final grade will be out of 10 points, with each part contributing up to 5 points.
 
-3. Errores en las definiciones:
-   - Si alguna de las definiciones es incorrecta, se restará 1 punto por cada definición errónea.
-   - Si las cuatro definiciones son incorrectas, la nota será 4.
+1. Definition of FinTech (5 points):
+The answer must mention the three key concepts:
 
-Nota general: Si no se mencionan los conceptos correctamente o se proporcionan definiciones erróneas, la nota se reducirá significativamente en función de la cantidad de errores.
+Use of technology,
+
+Need for regulatory approval as it operates in a regulated market,
+
+Offering of financial services or related activities (such as providing loans, payments, wealth management, insurance, etc.).
+
+If the answer correctly includes all three concepts and the overall definition is accurate, the score will be 5.
+
+If any of the three concepts is missing, 1 point will be deducted for each missing concept.
+
+If the answer includes an additional correct and applicable concept, 1 point will be added, with a maximum of 5 points in total for this part.
+
+Note: For "offering of financial services," also accept descriptions of related activities (e.g., managing money, facilitating payments, providing loans, or other financial or insurance-related services), even if the exact term "financial services" is not used.
+
+2. Types of FinTech (5 points):
+The answer must include at least three of the following types of FinTech: WealthTech, InsurTech, PayTech, Neobanks, RegTech, Online Lending, Crowdfunding, Digital Onboarding, Crypto and Digital Assets, Foreign Exchange, Personal Finance, Marketplace, Financial Infrastructure.
+
+For each mentioned concept, there must be a brief, one-sentence definition.
+If the answer includes three concepts with correct and precise definitions, the score will be 5.
+For each missing concept and definition, 1 points will be deducted.
+If the concept is present but lacks a definition, 1 point will be deducted.
+If more than three concepts are included with precise definitions, 1 point will be added for each additional concept, up to a maximum of 5 points.
+If additional concepts are included without definitions, half a point will be added for each.
+Grading notes:
+Each part must be graded between 0 and 5 points, and the final grade for the exercise must be between 0 and 10 points.
+Both parts must be evaluated independently, and no part should dominate the final grade.
+General notes:
+If the answer does not address any of the key points listed in the criteria, the score will be 0.
+If the answer simply repeats the text of the question without providing a response, the score will be 0.
 
 Criterios para Q12_Especifica2:
-1. Mención del concepto y objetivo principal:
-   - La respuesta debe mencionar que el algoritmo de mejor ejecución se usa para optimizar la venta en bolsa (maximizar precio o minimizar costos).
-   - Nota base:
-     - Menciona ambos objetivos: 7.
-     - Menciona solo uno: 6.
-     - No menciona el objetivo: 4.
 
-2. Aplicación en los mercados financieros:
-   - Debe explicar cómo el algoritmo se aplica, mencionando liquidez, tiempo de ejecución o volatilidad.
-   - Suma de puntos:
-     - Explicación clara: +2.
-     - Mención vaga o incompleta: +1.
+The answer consists of one part and is evaluated out of 10 points. The answer must list at least three of the following contributions: Financial inclusion improvement, Democratization of finance, Geolocation, Transparency, Agility, Security.
 
-3. Comprensión y claridad:
-   - La respuesta debe ser clara y demostrar un entendimiento adecuado del algoritmo.
-   - Suma de puntos:
-     - Respuesta clara y precisa: +2.
-     - Comprensible pero con errores: +1.
+1. Contributions of FinTech to the financial sector:
 
-4. Errores en la definición:
-   - Se restará 1 punto por cada error.
-   - Si hay cuatro o más errores, la nota será 4.
+If the answer contains three of the listed contributions, the score will be 8.
+For each missing contribution, 3 points will be deducted.
+If more than three correct contributions are included, 0.5 points will be added for each additional correct contribution.
+If brief definitions are included and they are correct, 1 point will be added for each correct and precise definition.
+If the definition is incorrect, 1 point will be deducted.
+If the definition is vague or too broad, 0.5 points will be deducted.
+Grading note: The final score for this part must be between 0 and 10 points.
 
-Nota general: Si la respuesta es confusa o incompleta, se penalizará en función de los errores y omisiones.
+General notes:
+
+If the answer does not address any of the key points listed in the criteria, the score will be 0.
+If the answer simply repeats the text of the question without providing a response, the score will be 0.
